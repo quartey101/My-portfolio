@@ -71,8 +71,9 @@ const Experience = () => {
         className="mt-24 flex justify-center items-center "
       >
         <a
-          href="https://drive.google.com/file/d/1sDmbN-U9bkUxricErN3R1YSyhINac3lR/view?usp=drive_link"
+          href="/Benjamin_Quartey_Resume.pdf"
           target="_blank"
+          download="Benjamin_Quartey_Resume.pdf"
         >
           <button className="mt-10 sm:mt-20 sm:mb-12 relative inline-flex items-center justify-center p-0.5 mb-2 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-green-400 to-purple-600 group-hover:from-green-500 group-hover:to-purple-700 hover:text-white dark:text-white ">
             <span className="relative px-8 py-4 transition-all ease-in duration-75 text-white bg-gray-900 rounded-md group-hover:bg-opacity-0 text-lg">
